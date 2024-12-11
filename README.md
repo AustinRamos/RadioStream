@@ -7,7 +7,7 @@
 Hey there! This is a simple radio streaming platform I'm building. It's got a Go backend for handling the low latency streams and a Next.js frontend for the UI.
 low latency, concurrent, and high quality audio streaming framework, meant to be 'plug and play' for local internet radio stations.
 
-## 🚀 Quick Start
+##  Quick Start
 
 ### Backend (Go)
 ```bash
@@ -59,7 +59,7 @@ radio-platform/
 - DJ scheduling
 - Maybe some visualizers cause why not
 
-## 🤔 Tech Stack
+##  Tech Stack
 - **Backend**: Go (Gin) - chose this for good performance with streams
 - **Frontend**: Next.js + TypeScript + Tailwind - modern stack that's fun to work with
 - Planning to add WebSockets for chat and stream metadata
